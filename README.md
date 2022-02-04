@@ -1,4 +1,4 @@
-Faça um programa que leia o nome de um aluno e as 3 notas que ele obteve nos 3 trimestres do ano.
+Faça um programa que leia o nome de um aluno e as três notas que ele obteve nos três trimestres do ano.
 
 Imprimir a nota final do aluno;
 
